@@ -1,7 +1,7 @@
 {
     "slug": "presencial",
-    "title": "Formacion academica",
     "description": "Formacion academica, grados de estudio e instituciones a las que asisti",
+    "title": "Formacion academica",
     "items":[
         {
             "name":"Universidad Laica Eloy Alfaro de Manabi Extension Chone",

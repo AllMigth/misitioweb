@@ -1,11 +1,10 @@
 {
     "slug": "others",
-    "title": "Talleres, diplomados y conferencias en las que he participado",
     "description": "Otros logros academicos",
-    "items":[
-        {
+    "title": "Talleres, diplomados y conferencias en las que he participado",
+    "items":[{
             "name":"II Jornada Cientifica y Academica ULEAM 2020",
-            "degree":"Ponente"
-        }
-    ]
+            "degree":"Ponente",
+            "score":"640"
+        }]
 }

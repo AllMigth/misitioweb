@@ -1,14 +1,17 @@
-//CREAR PAGINAS CON CODIGO USANDO ARCHIVOS JSON COMO DATOS PARA GENERARLAS
 const path = require('path');
+
 exports.createPages = async({graphql, actions}) =>{
+
     const result = await graphql(`
-        allEducationJson {
-            edges {
-              node {
-                slug
-              }
-            }
-          }        
+    {
+      allEducationJson {
+        edges {
+          node{
+            slug
+          }
+        }
+      }
+    }
     `);
 
     result.data.allEducationJson.edges.forEach(element => {
