@@ -1,8 +1,16 @@
 {"data":{
     "email":"jgarzon292@gmail.com",
     "username":"jgarzon292",
-    "certificates":[],
-    "articles":[],
+    "certificates":[{
+        "title":"Crea un sitio personal con Gatsby",
+        "score":"10",
+        "code":"cspg"
+    }],
+    "articles":[{
+        "title":"Codigos QR como medio de instrusion en instituciones de educacion superior",
+        "description":"Quick Response codes use like penetretation tools in ULEAM Chone",
+        "url":"https://juangzgc.blogspot.com/"
+    }],
     "courses":[{
         "title":"Curso Profesional de JAVA",
         "progress":"34.0",
