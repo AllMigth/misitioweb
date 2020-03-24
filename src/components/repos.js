@@ -15,7 +15,7 @@ export default () => {
         if (data){
             let myRepos = JSON.parse(data);
             setReposCount(myRepos.length);
-            myRepos - myRepos.slice(1,13);
+            myRepos = myRepos.slice(1,13);
             return setRepos(myRepos);
         }
         async function fetchRepos (){
