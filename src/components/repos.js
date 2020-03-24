@@ -11,7 +11,7 @@ export default () => {
     useEffect(()=>{
 
         const data = sessionStorage.getItem("repos");
-        let myRepos;
+        //let myRepos;
         if (data){
             let myRepos = JSON.parse(data);
             setReposCount(myRepos.length);

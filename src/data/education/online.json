@@ -1,0 +1,17 @@
+{
+    "slug": "online",
+    "title": "Cursos en linea",
+    "description": "Cursos realizados en las plataformas de internet",
+    "items":[
+        {
+            "name":"Teletrabajo",
+            "url":"https://platzi.com/@juan-garzon946/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/",
+           
+        },
+        {
+            "name": "Marca Personal",
+            "degree":"https://platzi.com/@juan-garzon946/curso/1220-marca-personal/diploma/detalle/",
+            
+        }
+    ]
+}

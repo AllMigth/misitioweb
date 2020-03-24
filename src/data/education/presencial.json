@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formacion academica",
+    "description": "Formacion academica, grados de estudio e instituciones a las que asisti",
+    "items":[
+        {
+            "name":"Universidad Laica Eloy Alfaro de Manabi Extension Chone",
+            "degree":"Ingeniero en Sistemas",
+            "score":"8"
+        },
+        {
+            "name": "Unidad Educativa Santiago Apostol",
+            "degree":"Comercio y administracion",
+            "score":"8"
+        }
+    ]
+}

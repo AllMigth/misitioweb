@@ -1,5 +1,5 @@
-import React, { useEffect,useState } from "react"
-import { useStaticQuery, grap, graphql } from "gatsby";
+import React from "react"
+import { useStaticQuery, graphql } from "gatsby";
 import Post from './posts';
 import Certificate from "./certificate";
 import Course from "./course";
