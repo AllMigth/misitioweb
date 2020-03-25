@@ -1,19 +1,19 @@
 {
     "slug": "presencial",
-    "description": "Formacion academica, grados de estudio e instituciones a las que asisti",
+    "description": "Grados de estudio e instituciones a las que asisti",
     "title": "Formacion academica",
     "items":[
         {
             "name":"Universidad Laica Eloy Alfaro de Manabi Extension Chone",
             "degree":"Ingeniero en Sistemas",
-            "score":"8",
+            "score":"17/20",
             "url":"https://platzi.com/@juan-garzon946/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/"
         },
         {
             "name": "Unidad Educativa Santiago Apostol",
             "degree":"Comercio y administracion",
-            "score":"8",
-            "url":"https://juangagc.blogspot.com"
+            "score":"8/10",
+            "url":"https://juangzgc.blogspot.com"
         }
     ]
 }

@@ -26,6 +26,7 @@ export default () => {
             setReposCount(myRepos.length);
             //retorna ese json
             sessionStorage.setItem("repos", JSON.stringify(myRepos));
+            myRepos = myRepos.slice(1,11);
             setRepos(myRepos);
         }
         fetchRepos();

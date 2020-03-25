@@ -1,11 +1,11 @@
 {
-    "slug": "others",
-    "description": "Otros logros academicos",
-    "title": "Talleres, diplomados y conferencias en las que he participado",
+    "slug": "otros",
+    "description": "Talleres, diplomados y conferencias en las que he participado",
+    "title": "Otros logros academicos",
     "items":[{
             "name":"II Jornada Cientifica y Academica ULEAM 2020",
             "degree":"Ponente",
             "score":"+1",
-            "url":"https://juangagc.blogspot.com"
+            "url":"https://juangzgc.blogspot.com"
         }]
 }
