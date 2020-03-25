@@ -1,6 +1,6 @@
 import React from "react"
 import repos from '../data/repos';
-import Repo from '../repo';
+import Repo from './repo';
 
 export default () => (
     <div className='max-w-4xl mx-auto'>
@@ -8,10 +8,10 @@ export default () => (
         <h2 className='text-3xl font-bold'>Mi trabajo en Open source</h2>
         <p>Colaboracion y contribucion de codigo</p>
         </header>
-        <ul>
+        <ul className='repos-list'>
             {
                 repos.map((repo)=>{
-                    return <li> {repo.name} </li>
+                    return <Repo repo={repo} key={repo.id} />
                 })
             }
         </ul>
