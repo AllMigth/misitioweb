@@ -8,7 +8,7 @@ export default () => <div>
     <Header/>
     <EdNav/>
     <Repos/>
-    <Codigofacilito />
-    <Medium/>
+   // <Codigofacilito />
+    //<Medium/>
 
 </div>
