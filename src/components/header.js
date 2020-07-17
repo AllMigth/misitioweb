@@ -8,7 +8,7 @@ export default() => (
             <div className="flex justify-center items-center">
                 <div className="flex-1">
                     <h1 className="font-bold text-purple-700 text-6xl" >¡Hola! Somos SoftYon</h1>
-                    <p className="text-xl"> Creamos sitios web para portafolios para profesionales 
+                    <p className="text-xl"> Creamos sitios web portafolios para profesionales 
                     de cualquier área.</p>
                 </div>
                 <img src={ilustration} alt="Enviroment studie for one men" style={{height: "250px"}}></img>  
