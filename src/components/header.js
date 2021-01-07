@@ -10,7 +10,7 @@ export default() => (
                     <h1 className="font-bold text-purple-700 text-6xl" >¡Hola! Soy Juan</h1>
                     <p className="text-xl"> Desarrollador de software para android y la web.</p>
                 </div>
-                <img src={ilustration} alt="Enviroment studie for one men" style={{height: "150px"}}></img>  
+                <img src={ilustration} alt="Enviroment studie for one men" style={{height: "180px"}}></img>  
                 </div>
      
     <div>
