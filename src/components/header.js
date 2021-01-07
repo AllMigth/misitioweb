@@ -3,7 +3,7 @@ import ilustration from '../imgs/fondo.svg';
 import Form from './contact.form';
 
 export default() => (
-    <header className = " flex bg-gray-300">
+    <header className = " flex-1 bg-gray-300">
         <div className="container mx-auto p-12 max-w-4xl "> 
             <div className="flex justify-center items-center">
                 <div className="flex-1">
