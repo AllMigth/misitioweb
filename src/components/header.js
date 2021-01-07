@@ -13,9 +13,6 @@ export default() => (
                 </div>
                 <img src={ilustration} alt="Enviroment studie for one men" style={{height: "250px"}}></img>  
                 </div>
-                <div>
-                    <Form />  
-                </div> 
         </div>
     </header>
 )
