@@ -7,7 +7,7 @@ export default() => (
         <div className="container mx-auto p-12 max-w-4xl "> 
             <div className="flex justify-center items-center">
                 <div className="flex-1 h-full text-left">
-                    <h1 className="font-extrabold text-purple-700 text-3xl" >¡Hola! Soy Juan</h1>
+                    <h1 className="font-extrabold text-purple-700 text-3xl" >Soy Juan</h1>
                     <p className="text-xl font-light"> Desarrollador de software para android y la web.</p>
                 </div>
                 <img src={ilustration} alt="Enviroment studie for one men" style={{height: "180px"}}></img>  
